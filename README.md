@@ -1,4 +1,3 @@
-# Chess-Game-C++
 # Chess Game in C++
 
 This is a simple implementation of a Chess game in C++. It includes the basic rules and logic to play the game, but doesn't include advanced features such as castling, en passant, or pawn promotion.
